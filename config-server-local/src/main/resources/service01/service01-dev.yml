@@ -1,0 +1,3 @@
+service:
+  geeting: This is from Service 01
+  env: DEV
